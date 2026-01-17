@@ -5,9 +5,11 @@ export const HomePage: FC = () => {
   return (
     <main className="home">
       <section className="hero">
-        <h1 className="hero-title">Welcome to Corey’s Application</h1>
+        <h1 className="hero-title">
+          Welcome to the great Corey Rose Application!
+        </h1>
         <p className="hero-subtitle">
-          A modern React + TypeScript project built with Vite.
+          Those who enter may never be seen again.
         </p>
 
         <div className="hero-actions">
